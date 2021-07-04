@@ -108,7 +108,7 @@
 
 ### 生产力工具
 
-- [Everything](http://www.voidtools.com/) - 最快的文件/文件夹搜索工具， 通过名称搜索。![Windows](./media/windows.svg
+- [Everything](http://www.voidtools.com/) - 最快的文件/文件夹搜索工具， 通过名称搜索。![Windows](./media/windows.svg)
 - [Listary](http://www.listary.com/) - 让你的文件不离指尖。 独特的搜索实用程序。![Windows](./media/windows.svg)
 - 盘姬工具箱 ![Windows](./media/windows.svg)
 
@@ -154,6 +154,8 @@
 - [zettlr](https://github.com/Zettlr/Zettlr) ![Windows](./media/windows.svg)![MacOS](./media/macos.svg)![Linux](./media/linux.svg) | ![OSS](./media/OSS.svg)
 - [Visual Studio Code](https://code.visualstudio.com/) ![Windows](./media/windows.svg)![MacOS](./media/macos.svg)![Linux](./media/linux.svg) 
 - [Mark Mind](https://github.com/MarkMindLtd/Mark-Mind/releases/tag/v1.1.9) - markdown和思维导图转换![Windows](./media/windows.svg)![MacOS](./media/macos.svg)![Linux](./media/linux.svg) | ![OSS](./media/OSS.svg)
+- [Joplin](https://github.com/laurent22/joplin) - 开源且支持平台全面，还有便携版，支持网页剪辑器插件，键盘模式支持普通、Vim和Emacs模式，同步方式多样，可以作为笔记软件。![Windows](./media/windows.svg)![MacOS](./media/macos.svg)![Linux](./media/linux.svg) | ![OSS](./media/OSS.svg)
+- [Haroopad](http://pad.haroopress.com/)  - 开源免费，键盘模式支持Vim。来自韩国。 ![Windows](./media/windows.svg)![MacOS](./media/macos.svg)![Linux](./media/linux.svg) | ![OSS](./media/OSS.svg)
 
 ### 在线Markdown编辑器
 - [Arya](https://markdown.lovejade.cn/?utm_source=appinn.com)
